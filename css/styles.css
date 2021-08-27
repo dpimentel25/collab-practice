@@ -1,5 +1,15 @@
 .bingo {
-    height: 500px;
+    height: 300px;
     text-transform: uppercase;
     text-decoration: underline;
+    margin-bottom: 40%;
+    padding-bottom: 300px;
 }
+
+/* .body {
+    margin-bottom: 20%;
+} */
+/* 
+footer {
+    margin-top: 30%;
+} */
